@@ -18,4 +18,5 @@ To use UINavigationController you will need to:
 3. Pass the list of panel prefabs to the UINavigationController component.
 
 In a UIPanelController you can transition to a new panel by calling:
-	this.navigationController.PushPanel("InGamePanel", optionalPayload);
+
+    this.navigationController.PushPanel("InGamePanel", optionalPayload);
