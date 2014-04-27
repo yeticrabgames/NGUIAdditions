@@ -5,7 +5,7 @@ A collection of scripts that add some additional functionality to the NGUI frame
 
 It includes:
 
-* Panel controller functionality similar to [UIViewController](https://developer.apple.com/library/ios/documentation/uikit/reference/UIViewController_Class/Reference/Reference.html#//apple_ref/occ/cl/UIViewController) (following an MVC paradigm).
+* Panel controller functionality similar to [UIViewController](https://developer.apple.com/library/ios/documentation/uikit/reference/UIViewController_Class/Reference/Reference.html#//apple_ref/occ/cl/UIViewController) (following an [MVC](http://en.wikipedia.org/wiki/Model–view–controller) paradigm).
 * A panel navigation stack similar to [UINavigationController](https://developer.apple.com/library/ios/documentation/uikit/reference/UINavigationController_Class/Reference/Reference.html).
 * Playing tween components in sequences or concurrent groups.
 * Additional tween components for label counters and sliders.
